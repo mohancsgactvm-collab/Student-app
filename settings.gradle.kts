@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Student Record Manager"
+rootProject.name = "SIASC Connect"
 
 include(":app")

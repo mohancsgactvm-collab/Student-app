@@ -1,6 +1,6 @@
 # Google Play Console Upload Guide (தமிழ் & English)
 
-இந்த வழிகாட்டி மூலம் நீங்கள் உங்கள் **Student Record Manager** செயலியை Google Play Console-ல் மிக எளிதாக Upload செய்து வெளியிடலாம்.
+இந்த வழிகாட்டி மூலம் நீங்கள் உங்கள் **SIASC Connect** செயலியை Google Play Console-ல் மிக எளிதாக Upload செய்து வெளியிடலாம்.
 
 ---
 
@@ -12,6 +12,7 @@
 | `feature_graphic_1024x500.jpg` | 1024×500 Promotional Banner | **Feature Graphic** (Main Store Listing) |
 | `screenshot_1_profile.jpg` | 9:16 Profile Screen Screenshot | **Phone Screenshots** (Store Listing) |
 | `screenshot_2_form.jpg` | 9:16 Form Screen Screenshot | **Phone Screenshots** (Store Listing) |
+| `siasc_connect.aab` | Signed Android App Bundle (22MB) | **App Bundle** (Release > Production) |
 | `APP_LISTING_METADATA.md` | Titles, Short & Full Descriptions | Copy-paste to **Store Listing Text** |
 | `DATA_SAFETY_QUESTIONNAIRE.md` | Complete Data Safety Answers | Fill out **App Content > Data Safety** |
 | `PRIVACY_POLICY.md` & `privacy_policy.html` | Privacy Policy Text & Webpage | Submit under **App Content > Privacy Policy** |
@@ -20,10 +21,9 @@
 
 ## 🚀 Step-by-Step Play Console Upload Procedure
 
-### படி 1: AAB (Android App Bundle) உருவாக்குதல் (Generate App Bundle)
-Google Play Store-க்கு APK-க்கு பதிலாக `.aab` கோப்பு தேவைப்படும்:
-1. **AI Studio Settings Menu**: Top right menu > **Download APK / Bundle** > Generate Signed AAB / Export ZIP.
-2. அல்லது Android Studio-வில்: `Build` > `Generate Signed Bundle / APK` > `Android App Bundle (.aab)`.
+### படி 1: AAB (Android App Bundle) கோப்பு
+Google Play Store-க்கு `.aab` கோப்பு தேவைப்படும்:
+- உங்கள் `play_store_assets/siasc_connect.aab` கோப்பு ஏற்கனவே தயாராக உள்ளது.
 
 ---
 
@@ -31,7 +31,7 @@ Google Play Store-க்கு APK-க்கு பதிலாக `.aab` கோ
 1. **Google Play Console** (https://play.google.com/console)-ல் உள்நுழையவும்.
 2. **"Create app"** பொத்தானை அழுத்தவும்.
 3. விவரங்களை உள்ளிடவும்:
-   - **App name**: `Student Record Manager`
+   - **App name**: `SIASC Connect`
    - **Default language**: `English (United States) - en-US`
    - **App or game**: `App`
    - **Free or paid**: `Free`
@@ -42,7 +42,7 @@ Google Play Store-க்கு APK-க்கு பதிலாக `.aab` கோ
 ### படி 3: Main Store Listing அமைத்தல் (Store Listing Details)
 இடது பக்க மெனுவில் **Grow** > **Store presence** > **Main store listing** செல்லவும்:
 1. **App details**:
-   - **App name**: `Student Record Manager` (22 எழுத்துகள்)
+   - **App name**: `SIASC Connect` (13 எழுத்துகள்)
    - **Short description**: `APP_LISTING_METADATA.md`-ல் உள்ளதை Copy செய்து Paste செய்யவும்.
    - **Full description**: `APP_LISTING_METADATA.md`-ல் உள்ளதை Copy செய்து Paste செய்யவும்.
 2. **Graphics**:
@@ -90,7 +90,7 @@ Google Play Store-க்கு APK-க்கு பதிலாக `.aab` கோ
 4. **Release name**: `1.0.0 (Initial Release)` என கொடுக்கவும்.
 5. **Release notes**:
    ```text
-   Initial Release of Student Record Manager.
+   Initial Release of SIASC Connect.
    - Digitize Student Academic Record Registers
    - Section A to D Biodata with automatic age calculator
    - Passport portrait photo integration

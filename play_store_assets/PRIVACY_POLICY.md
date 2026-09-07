@@ -1,4 +1,4 @@
-# Privacy Policy for Student Record Manager
+# Privacy Policy for SIASC Connect
 
 **Effective Date:** September 7, 2026  
 **Last Updated:** September 7, 2026  
@@ -7,7 +7,7 @@
 ---
 
 ### Introduction
-Student Record Manager ("we", "our", or "the App") is developed as a digital academic register tool to assist educational institutions, educators, and faculty members in maintaining accurate student biodata. We respect your privacy and are committed to protecting the privacy of our users.
+SIASC Connect ("we", "our", or "the App") is developed as a digital academic register tool to assist educational institutions, educators, and faculty members in maintaining accurate student biodata. We respect your privacy and are committed to protecting the privacy of our users.
 
 This Privacy Policy explains how information is handled within the application.
 
@@ -42,7 +42,7 @@ Because your data is saved locally on your device, **we do not sell, rent, trade
 ---
 
 ### 5. Children's Privacy
-Student Record Manager is intended for use by college faculty, administrative staff, and adult users. It does not knowingly collect personal information from children under 13 without appropriate school/parental authority for educational record-keeping.
+SIASC Connect is intended for use by college faculty, administrative staff, and adult users. It does not knowingly collect personal information from children under 13 without appropriate school/parental authority for educational record-keeping.
 
 ---
 

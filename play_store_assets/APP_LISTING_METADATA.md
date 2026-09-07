@@ -1,5 +1,5 @@
 # Google Play Store Listing Information
-**App Name**: Student Record Manager  
+**App Name**: SIASC Connect  
 **Package Name**: `com.aistudio.studentrecords.kxmpzq`  
 **Default Language**: English (United States) - `en-US`  
 **Secondary Language**: Tamil (India) - `ta-IN`
@@ -7,17 +7,17 @@
 ---
 
 ## 1. App Title (Max 30 characters)
-- **English**: `Student Record Manager` (22 chars)
-- **Tamil**: `மாணவர் பதிவேடு மேனேஜர்` (23 chars)
+- **English**: `SIASC Connect` (13 chars)
+- **Tamil**: `SIASC கனெக்ட்` (13 chars)
 
 ---
 
 ## 2. Short Description (Max 80 characters)
 - **English**:
-  `Digitize and manage student academic record registers and biodata securely.` (76 chars)
+  `SIASC Connect: Digitize and manage student academic records and biodata.` (72 chars)
 
 - **Tamil**:
-  `கல்லூரி மாணவர் பயோடேட்டா மற்றும் கல்வி பதிவேட்டை எளிதாக நிர்வகிக்கலாம்.` (77 chars)
+  `SIASC Connect: கல்லூரி மாணவர் பயோடேட்டா மற்றும் கல்வி பதிவேடு மேனேஜர்.` (71 chars)
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### English:
 ```text
-Student Record Manager digitizes the traditional physical college "Student's Academic Record" register into a sleek, fast, and secure digital format. Built specifically for colleges, universities, faculty advisors, and department tutors, this application simplifies tracking and managing comprehensive student biodata.
+SIASC Connect digitizes the traditional physical college "Student's Academic Record" register into a sleek, fast, and secure digital format. Built specifically for colleges, universities, faculty advisors, and department tutors, this application simplifies tracking and managing comprehensive student biodata.
 
 Key Modules & Features (V1 Personal Record Register):
 
@@ -72,7 +72,7 @@ Key Modules & Features (V1 Personal Record Register):
 • Multi-student roster search & filtering
 • PDF Folio report export
 
-Digitize your classroom academic register today with Student Record Manager!
+Digitize your classroom academic register today with SIASC Connect!
 ```
 
 ---
