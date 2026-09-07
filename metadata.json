@@ -1,0 +1,6 @@
+{
+  "name": "Student Record Manager",
+  "description": "Digital college Student Academic Record register for student personal biodata with local Room database persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
